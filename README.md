@@ -1,4 +1,4 @@
-# ML in Mechanics Project
+# Time Series modelling of Crack-Branching in 2D Plates
 
 This project applies machine learning techniques to solve mechanics-related problems, incorporating neural networks to model complex physical phenomena.
 
