@@ -1,6 +1,6 @@
 # Time Series modelling of Crack-Branching in 2D Plates
 
-This project applies machine learning techniques to solve mechanics-related problems, incorporating neural networks to model complex physical phenomena.
+This project applies machine learning techniques to solve the crack branching problem, incorporating LSTMs to model complex physical phenomena.
 
 ## Documentation
 
